@@ -1,3 +1,3 @@
 # Programming-for-Everybody
-Python
-Coursera course
+Python for Everybody
+
